@@ -19,4 +19,4 @@ I made a small image to showcase how this works.
 - Cell 1's possibilities are now limited to a down arrow based on the given rules.
 - Cell 1 collapses into a downward arrow.
 
-![WFC](https://github.com/JunoStrunk/Juno_FIEAPortfolio/assets/98421780/8627b916-440f-4971-9188-d035c5a11027)
+<img width="1000" alt="Screen Shot 2023-11-14 at 9 46 21 PM" src="https://github.com/JunoStrunk/Juno_FIEAPortfolio/assets/98421780/9a0658af-c13d-44a6-a336-4261d434854d">
