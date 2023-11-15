@@ -19,5 +19,4 @@ I made a small image to showcase how this works.
 - Cell 1's possibilities are now limited to a down arrow based on the given rules.
 - Cell 1 collapses into a downward arrow.
 
-![Wave function collapse diagram](https://github.com/JunoStrunk/Juno_FIEAPortfolio/assets/98421780/d796f7a0-e502-4b9d-bf3f-146744392e87)
-
+![WFC](https://github.com/JunoStrunk/Juno_FIEAPortfolio/assets/98421780/8627b916-440f-4971-9188-d035c5a11027)
