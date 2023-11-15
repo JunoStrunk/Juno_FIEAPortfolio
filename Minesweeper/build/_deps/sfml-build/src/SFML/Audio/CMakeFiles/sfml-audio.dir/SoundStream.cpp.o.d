@@ -1,16 +1,16 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.o: \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundStream.cpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundStream.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundStream.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundStream.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/AlResource.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Thread.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/AlResource.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector3.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector3.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Thread.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdlib \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \
@@ -81,10 +81,10 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/malloc/_malloc.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_dev_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Thread.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Time.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/AudioDevice.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Thread.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/AudioDevice.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__debug \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iosfwd \
@@ -378,12 +378,12 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/_types/_wctrans_t.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/ALCheck.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/ALCheck.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/os/availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Sleep.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Err.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Sleep.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Err.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/bitset \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bit_reference \
@@ -437,4 +437,4 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Lock.hpp
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Lock.hpp

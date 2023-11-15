@@ -57,10 +57,10 @@ RM = /usr/local/Cellar/cmake/3.27.0/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/strunsa/Desktop/WFC
+CMAKE_SOURCE_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/strunsa/Desktop/WFC/build
+CMAKE_BINARY_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -68,7 +68,7 @@ CMAKE_BINARY_DIR = /Users/strunsa/Desktop/WFC/build
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool..."
-	cd /Users/strunsa/Desktop/WFC/build && /usr/local/Cellar/cmake/3.27.0/bin/cpack --config ./CPackConfig.cmake
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && /usr/local/Cellar/cmake/3.27.0/bin/cpack --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -78,7 +78,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool for source..."
-	cd /Users/strunsa/Desktop/WFC/build && /usr/local/Cellar/cmake/3.27.0/bin/cpack --config ./CPackSourceConfig.cmake /Users/strunsa/Desktop/WFC/build/CPackSourceConfig.cmake
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && /usr/local/Cellar/cmake/3.27.0/bin/cpack --config ./CPackSourceConfig.cmake /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -152,14 +152,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/strunsa/Desktop/WFC/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Desktop/WFC/build/CMakeFiles /Users/strunsa/Desktop/WFC/build/_deps/sfml-build/src/SFML//CMakeFiles/progress.marks
-	cd /Users/strunsa/Desktop/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Desktop/WFC/build/CMakeFiles 0
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-build/src/SFML//CMakeFiles/progress.marks
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/strunsa/Desktop/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/clean
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/clean
 .PHONY : clean
 
 # The main clean target
@@ -168,17 +168,17 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/strunsa/Desktop/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/preinstall
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/strunsa/Desktop/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/preinstall
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/sfml-build/src/SFML/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/strunsa/Desktop/WFC/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Help Target
@@ -206,6 +206,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/strunsa/Desktop/WFC/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

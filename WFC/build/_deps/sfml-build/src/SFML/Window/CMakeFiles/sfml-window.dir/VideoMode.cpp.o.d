@@ -1,8 +1,8 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o: \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
@@ -354,4 +354,4 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique_copy.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src/SFML/Window/VideoModeImpl.hpp
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src/SFML/Window/VideoModeImpl.hpp

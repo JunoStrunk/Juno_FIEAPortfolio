@@ -1,8 +1,8 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o: \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileFactory.cpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileFactory.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
@@ -365,29 +365,29 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bit_reference \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/export.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/format.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/stream_encoder.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3_ex.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisfile.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/vorbis/codec.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/ogg/ogg.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/ogg/os_types.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderFlac.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/stream_decoder.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/export.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/format.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/ordinals.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterFlac.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/FLAC/stream_encoder.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderMp3.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3_ex.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/minimp3/minimp3.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderOgg.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisfile.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/vorbis/codec.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/ogg/ogg.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/ogg/os_types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/inttypes.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include/inttypes.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/inttypes.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisenc.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterOgg.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/vorbis/vorbisenc.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__locale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/mutex \
@@ -447,11 +447,11 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/FileInputStream.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Err.hpp
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileReaderWav.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Audio/SoundFileWriterWav.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/FileInputStream.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Err.hpp

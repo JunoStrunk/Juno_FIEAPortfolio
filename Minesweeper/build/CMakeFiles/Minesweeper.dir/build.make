@@ -53,10 +53,10 @@ RM = /usr/local/Cellar/cmake/3.27.0/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/strunsa/Desktop/Minesweeper
+CMAKE_SOURCE_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/strunsa/Desktop/Minesweeper/build
+CMAKE_BINARY_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Minesweeper.dir/depend.make
@@ -70,74 +70,74 @@ include CMakeFiles/Minesweeper.dir/progress.make
 include CMakeFiles/Minesweeper.dir/flags.make
 
 CMakeFiles/Minesweeper.dir/main.cpp.o: CMakeFiles/Minesweeper.dir/flags.make
-CMakeFiles/Minesweeper.dir/main.cpp.o: /Users/strunsa/Desktop/Minesweeper/main.cpp
+CMakeFiles/Minesweeper.dir/main.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/main.cpp
 CMakeFiles/Minesweeper.dir/main.cpp.o: CMakeFiles/Minesweeper.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Minesweeper.dir/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/main.cpp.o -MF CMakeFiles/Minesweeper.dir/main.cpp.o.d -o CMakeFiles/Minesweeper.dir/main.cpp.o -c /Users/strunsa/Desktop/Minesweeper/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Minesweeper.dir/main.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/main.cpp.o -MF CMakeFiles/Minesweeper.dir/main.cpp.o.d -o CMakeFiles/Minesweeper.dir/main.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/main.cpp
 
 CMakeFiles/Minesweeper.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Minesweeper.dir/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/Minesweeper/main.cpp > CMakeFiles/Minesweeper.dir/main.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/main.cpp > CMakeFiles/Minesweeper.dir/main.cpp.i
 
 CMakeFiles/Minesweeper.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Minesweeper.dir/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/Minesweeper/main.cpp -o CMakeFiles/Minesweeper.dir/main.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/main.cpp -o CMakeFiles/Minesweeper.dir/main.cpp.s
 
 CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o: CMakeFiles/Minesweeper.dir/flags.make
-CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o: /Users/strunsa/Desktop/Minesweeper/Sources/Board.cpp
+CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Board.cpp
 CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o: CMakeFiles/Minesweeper.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o -c /Users/strunsa/Desktop/Minesweeper/Sources/Board.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/Board.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Board.cpp
 
 CMakeFiles/Minesweeper.dir/Sources/Board.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Minesweeper.dir/Sources/Board.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/Minesweeper/Sources/Board.cpp > CMakeFiles/Minesweeper.dir/Sources/Board.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Board.cpp > CMakeFiles/Minesweeper.dir/Sources/Board.cpp.i
 
 CMakeFiles/Minesweeper.dir/Sources/Board.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Minesweeper.dir/Sources/Board.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/Minesweeper/Sources/Board.cpp -o CMakeFiles/Minesweeper.dir/Sources/Board.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Board.cpp -o CMakeFiles/Minesweeper.dir/Sources/Board.cpp.s
 
 CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o: CMakeFiles/Minesweeper.dir/flags.make
-CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o: /Users/strunsa/Desktop/Minesweeper/Sources/Random.cpp
+CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Random.cpp
 CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o: CMakeFiles/Minesweeper.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o -c /Users/strunsa/Desktop/Minesweeper/Sources/Random.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Random.cpp
 
 CMakeFiles/Minesweeper.dir/Sources/Random.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Minesweeper.dir/Sources/Random.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/Minesweeper/Sources/Random.cpp > CMakeFiles/Minesweeper.dir/Sources/Random.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Random.cpp > CMakeFiles/Minesweeper.dir/Sources/Random.cpp.i
 
 CMakeFiles/Minesweeper.dir/Sources/Random.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Minesweeper.dir/Sources/Random.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/Minesweeper/Sources/Random.cpp -o CMakeFiles/Minesweeper.dir/Sources/Random.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Random.cpp -o CMakeFiles/Minesweeper.dir/Sources/Random.cpp.s
 
 CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o: CMakeFiles/Minesweeper.dir/flags.make
-CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o: /Users/strunsa/Desktop/Minesweeper/Sources/TextureManager.cpp
+CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/TextureManager.cpp
 CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o: CMakeFiles/Minesweeper.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o -c /Users/strunsa/Desktop/Minesweeper/Sources/TextureManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/TextureManager.cpp
 
 CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/Minesweeper/Sources/TextureManager.cpp > CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/TextureManager.cpp > CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.i
 
 CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/Minesweeper/Sources/TextureManager.cpp -o CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/TextureManager.cpp -o CMakeFiles/Minesweeper.dir/Sources/TextureManager.cpp.s
 
 CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o: CMakeFiles/Minesweeper.dir/flags.make
-CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o: /Users/strunsa/Desktop/Minesweeper/Sources/Tile.cpp
+CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Tile.cpp
 CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o: CMakeFiles/Minesweeper.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o -c /Users/strunsa/Desktop/Minesweeper/Sources/Tile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o -MF CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o.d -o CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Tile.cpp
 
 CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/Minesweeper/Sources/Tile.cpp > CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Tile.cpp > CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.i
 
 CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/Minesweeper/Sources/Tile.cpp -o CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Tile.cpp -o CMakeFiles/Minesweeper.dir/Sources/Tile.cpp.s
 
 # Object files for target Minesweeper
 Minesweeper_OBJECTS = \
@@ -160,7 +160,7 @@ bin/Minesweeper: _deps/sfml-build/lib/libsfml-graphics-s-d.a
 bin/Minesweeper: _deps/sfml-build/lib/libsfml-window-s-d.a
 bin/Minesweeper: _deps/sfml-build/lib/libsfml-system-s-d.a
 bin/Minesweeper: CMakeFiles/Minesweeper.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/strunsa/Desktop/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable bin/Minesweeper"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable bin/Minesweeper"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Minesweeper.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -172,6 +172,6 @@ CMakeFiles/Minesweeper.dir/clean:
 .PHONY : CMakeFiles/Minesweeper.dir/clean
 
 CMakeFiles/Minesweeper.dir/depend:
-	cd /Users/strunsa/Desktop/Minesweeper/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/strunsa/Desktop/Minesweeper /Users/strunsa/Desktop/Minesweeper /Users/strunsa/Desktop/Minesweeper/build /Users/strunsa/Desktop/Minesweeper/build /Users/strunsa/Desktop/Minesweeper/build/CMakeFiles/Minesweeper.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles/Minesweeper.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Minesweeper.dir/depend
 

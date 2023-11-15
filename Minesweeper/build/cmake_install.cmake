@@ -1,4 +1,4 @@
-# Install script for directory: /Users/strunsa/Desktop/Minesweeper
+# Install script for directory: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,15 +39,15 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-build/cmake_install.cmake")
+  include("/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-build/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/Users/strunsa/Desktop/Minesweeper/build/bin/Minesweeper")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/bin/Minesweeper")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Minesweeper" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Minesweeper")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks"
+      -delete_rpath "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Minesweeper")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" -u -r "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Minesweeper")
@@ -63,5 +63,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/strunsa/Desktop/Minesweeper/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

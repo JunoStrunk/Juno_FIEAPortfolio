@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.o: \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/System/Mutex.cpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/System/Mutex.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Mutex.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/System/Unix/MutexImpl.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/System/Unix/MutexImpl.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/pthread.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/_types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/sys/_types.h \

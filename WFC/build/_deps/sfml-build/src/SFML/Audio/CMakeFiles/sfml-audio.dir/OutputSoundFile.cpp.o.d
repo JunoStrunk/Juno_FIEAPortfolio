@@ -1,11 +1,11 @@
 _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.o: \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src/SFML/Audio/OutputSoundFile.cpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Audio/OutputSoundFile.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src/SFML/Audio/OutputSoundFile.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Audio/OutputSoundFile.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/System/Export.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \
@@ -364,9 +364,9 @@ _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.o:
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/_types/_wctrans_t.h \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bit_reference \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl

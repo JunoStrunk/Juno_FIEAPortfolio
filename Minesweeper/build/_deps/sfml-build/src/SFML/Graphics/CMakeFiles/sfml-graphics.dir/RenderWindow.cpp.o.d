@@ -1,14 +1,14 @@
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o: \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Color.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/algorithm \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \
@@ -356,16 +356,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/transform.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique_copy.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Image.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdio \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string_view \
@@ -380,20 +380,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bit_reference \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Time.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__locale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/mutex \
@@ -444,15 +444,15 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Graphics/Texture.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/glad/include/glad/gl.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle \

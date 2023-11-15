@@ -3,9 +3,9 @@
 # No other meaning or use of this file is supported.
 
 method=git
-command=/usr/local/Cellar/cmake/3.27.0/bin/cmake;-P;/Users/strunsa/Desktop/WFC/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
-source_dir=/Users/strunsa/Desktop/WFC/build/_deps/sfml-src
-work_dir=/Users/strunsa/Desktop/WFC/build/_deps
+command=/usr/local/Cellar/cmake/3.27.0/bin/cmake;-P;/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
+source_dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src
+work_dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps
 repository=https://github.com/SFML/SFML.git
 remote=origin
 init_submodules=TRUE

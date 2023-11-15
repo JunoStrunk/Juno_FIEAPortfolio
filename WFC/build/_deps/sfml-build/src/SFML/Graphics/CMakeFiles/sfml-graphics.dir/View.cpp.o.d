@@ -1,12 +1,12 @@
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o: \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src/SFML/Graphics/View.cpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src/SFML/Graphics/View.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Graphics/View.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Graphics/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Graphics/Rect.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/algorithm \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \
@@ -354,8 +354,8 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/transform.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique_copy.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique.h \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Graphics/Rect.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include/SFML/Graphics/Transform.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cmath \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/math.h

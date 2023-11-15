@@ -53,10 +53,10 @@ RM = /usr/local/Cellar/cmake/3.27.0/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/strunsa/Desktop/Minesweeper
+CMAKE_SOURCE_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/strunsa/Desktop/Minesweeper/build
+CMAKE_BINARY_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build
 
 # Utility rule file for ExperimentalStart.
 
@@ -82,6 +82,6 @@ CMakeFiles/ExperimentalStart.dir/clean:
 .PHONY : CMakeFiles/ExperimentalStart.dir/clean
 
 CMakeFiles/ExperimentalStart.dir/depend:
-	cd /Users/strunsa/Desktop/Minesweeper/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/strunsa/Desktop/Minesweeper /Users/strunsa/Desktop/Minesweeper /Users/strunsa/Desktop/Minesweeper/build /Users/strunsa/Desktop/Minesweeper/build /Users/strunsa/Desktop/Minesweeper/build/CMakeFiles/ExperimentalStart.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/CMakeFiles/ExperimentalStart.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ExperimentalStart.dir/depend
 

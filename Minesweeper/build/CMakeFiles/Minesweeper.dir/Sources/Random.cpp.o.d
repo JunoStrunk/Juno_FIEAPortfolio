@@ -1,6 +1,6 @@
 CMakeFiles/Minesweeper.dir/Sources/Random.cpp.o: \
-  /Users/strunsa/Desktop/Minesweeper/Sources/Random.cpp \
-  /Users/strunsa/Desktop/Minesweeper/Sources/../Headers/Random.h \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/Random.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/Sources/../Headers/Random.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/random \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \

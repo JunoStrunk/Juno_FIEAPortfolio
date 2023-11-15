@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/clang++
 C_DEFINES = -DSFML_STATIC
 
-C_INCLUDES = -I/Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include -I/Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src -I/Users/strunsa/Desktop/WFC/build/_deps/sfml-src/extlibs/headers/vulkan -isystem /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/extlibs/headers/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks
+C_INCLUDES = -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/extlibs/headers/vulkan -isystem /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/extlibs/headers/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks
 
 C_FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fvisibility=hidden
 
 CXX_DEFINES = -DSFML_STATIC
 
-CXX_INCLUDES = -I/Users/strunsa/Desktop/WFC/build/_deps/sfml-src/include -I/Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src -I/Users/strunsa/Desktop/WFC/build/_deps/sfml-src/extlibs/headers/vulkan -isystem /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/extlibs/headers/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks
+CXX_INCLUDES = -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/include -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/extlibs/headers/vulkan -isystem /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/extlibs/headers/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks
 
 CXX_FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -fvisibility=hidden
 

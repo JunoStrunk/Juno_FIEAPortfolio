@@ -1,22 +1,22 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o: \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Mouse.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Config.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/TargetConditionals.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Window/InputImpl.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src/SFML/Window/OSX/InputImpl.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Vector2.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Window/InputImpl.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src/SFML/Window/OSX/InputImpl.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Keyboard.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Window.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowBase.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Cursor.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/VideoMode.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \
@@ -367,13 +367,13 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique_copy.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/unique.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Time.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.hpp \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/Vulkan.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowHandle.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/Window/WindowStyle.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Clock.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Time.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__locale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/string \
@@ -435,5 +435,5 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.inl \
-  /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.inl
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/Utf.inl \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include/SFML/System/String.inl

@@ -57,10 +57,10 @@ RM = /usr/local/Cellar/cmake/3.27.0/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/strunsa/Desktop/WFC
+CMAKE_SOURCE_DIR = /WFC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/strunsa/Desktop/WFC/build
+CMAKE_BINARY_DIR =/WFC/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -78,7 +78,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool for source..."
-	/usr/local/Cellar/cmake/3.27.0/bin/cpack --config ./CPackSourceConfig.cmake /Users/strunsa/Desktop/WFC/build/CPackSourceConfig.cmake
+	/usr/local/Cellar/cmake/3.27.0/bin/cpack --config ./CPackSourceConfig.cmake /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -152,9 +152,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Desktop/WFC/build/CMakeFiles /Users/strunsa/Desktop/WFC/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Desktop/WFC/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -53,10 +53,10 @@ RM = /usr/local/Cellar/cmake/3.27.0/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/strunsa/Desktop/WFC
+CMAKE_SOURCE_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/strunsa/Desktop/WFC/build
+CMAKE_BINARY_DIR = /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/WFC.dir/depend.make
@@ -70,88 +70,88 @@ include CMakeFiles/WFC.dir/progress.make
 include CMakeFiles/WFC.dir/flags.make
 
 CMakeFiles/WFC.dir/main.cpp.o: CMakeFiles/WFC.dir/flags.make
-CMakeFiles/WFC.dir/main.cpp.o: /Users/strunsa/Desktop/WFC/main.cpp
+CMakeFiles/WFC.dir/main.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/main.cpp
 CMakeFiles/WFC.dir/main.cpp.o: CMakeFiles/WFC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/WFC.dir/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/main.cpp.o -MF CMakeFiles/WFC.dir/main.cpp.o.d -o CMakeFiles/WFC.dir/main.cpp.o -c /Users/strunsa/Desktop/WFC/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/WFC.dir/main.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/main.cpp.o -MF CMakeFiles/WFC.dir/main.cpp.o.d -o CMakeFiles/WFC.dir/main.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/main.cpp
 
 CMakeFiles/WFC.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WFC.dir/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/WFC/main.cpp > CMakeFiles/WFC.dir/main.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/main.cpp > CMakeFiles/WFC.dir/main.cpp.i
 
 CMakeFiles/WFC.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WFC.dir/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/WFC/main.cpp -o CMakeFiles/WFC.dir/main.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/main.cpp -o CMakeFiles/WFC.dir/main.cpp.s
 
 CMakeFiles/WFC.dir/src/Cell.cpp.o: CMakeFiles/WFC.dir/flags.make
-CMakeFiles/WFC.dir/src/Cell.cpp.o: /Users/strunsa/Desktop/WFC/src/Cell.cpp
+CMakeFiles/WFC.dir/src/Cell.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Cell.cpp
 CMakeFiles/WFC.dir/src/Cell.cpp.o: CMakeFiles/WFC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/WFC.dir/src/Cell.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/Cell.cpp.o -MF CMakeFiles/WFC.dir/src/Cell.cpp.o.d -o CMakeFiles/WFC.dir/src/Cell.cpp.o -c /Users/strunsa/Desktop/WFC/src/Cell.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/WFC.dir/src/Cell.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/Cell.cpp.o -MF CMakeFiles/WFC.dir/src/Cell.cpp.o.d -o CMakeFiles/WFC.dir/src/Cell.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Cell.cpp
 
 CMakeFiles/WFC.dir/src/Cell.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WFC.dir/src/Cell.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/WFC/src/Cell.cpp > CMakeFiles/WFC.dir/src/Cell.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Cell.cpp > CMakeFiles/WFC.dir/src/Cell.cpp.i
 
 CMakeFiles/WFC.dir/src/Cell.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WFC.dir/src/Cell.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/WFC/src/Cell.cpp -o CMakeFiles/WFC.dir/src/Cell.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Cell.cpp -o CMakeFiles/WFC.dir/src/Cell.cpp.s
 
 CMakeFiles/WFC.dir/src/Grid.cpp.o: CMakeFiles/WFC.dir/flags.make
-CMakeFiles/WFC.dir/src/Grid.cpp.o: /Users/strunsa/Desktop/WFC/src/Grid.cpp
+CMakeFiles/WFC.dir/src/Grid.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Grid.cpp
 CMakeFiles/WFC.dir/src/Grid.cpp.o: CMakeFiles/WFC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/WFC.dir/src/Grid.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/Grid.cpp.o -MF CMakeFiles/WFC.dir/src/Grid.cpp.o.d -o CMakeFiles/WFC.dir/src/Grid.cpp.o -c /Users/strunsa/Desktop/WFC/src/Grid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/WFC.dir/src/Grid.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/Grid.cpp.o -MF CMakeFiles/WFC.dir/src/Grid.cpp.o.d -o CMakeFiles/WFC.dir/src/Grid.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Grid.cpp
 
 CMakeFiles/WFC.dir/src/Grid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WFC.dir/src/Grid.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/WFC/src/Grid.cpp > CMakeFiles/WFC.dir/src/Grid.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Grid.cpp > CMakeFiles/WFC.dir/src/Grid.cpp.i
 
 CMakeFiles/WFC.dir/src/Grid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WFC.dir/src/Grid.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/WFC/src/Grid.cpp -o CMakeFiles/WFC.dir/src/Grid.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Grid.cpp -o CMakeFiles/WFC.dir/src/Grid.cpp.s
 
 CMakeFiles/WFC.dir/src/InputManager.cpp.o: CMakeFiles/WFC.dir/flags.make
-CMakeFiles/WFC.dir/src/InputManager.cpp.o: /Users/strunsa/Desktop/WFC/src/InputManager.cpp
+CMakeFiles/WFC.dir/src/InputManager.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/InputManager.cpp
 CMakeFiles/WFC.dir/src/InputManager.cpp.o: CMakeFiles/WFC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/WFC.dir/src/InputManager.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/InputManager.cpp.o -MF CMakeFiles/WFC.dir/src/InputManager.cpp.o.d -o CMakeFiles/WFC.dir/src/InputManager.cpp.o -c /Users/strunsa/Desktop/WFC/src/InputManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/WFC.dir/src/InputManager.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/InputManager.cpp.o -MF CMakeFiles/WFC.dir/src/InputManager.cpp.o.d -o CMakeFiles/WFC.dir/src/InputManager.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/InputManager.cpp
 
 CMakeFiles/WFC.dir/src/InputManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WFC.dir/src/InputManager.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/WFC/src/InputManager.cpp > CMakeFiles/WFC.dir/src/InputManager.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/InputManager.cpp > CMakeFiles/WFC.dir/src/InputManager.cpp.i
 
 CMakeFiles/WFC.dir/src/InputManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WFC.dir/src/InputManager.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/WFC/src/InputManager.cpp -o CMakeFiles/WFC.dir/src/InputManager.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/InputManager.cpp -o CMakeFiles/WFC.dir/src/InputManager.cpp.s
 
 CMakeFiles/WFC.dir/src/Rules.cpp.o: CMakeFiles/WFC.dir/flags.make
-CMakeFiles/WFC.dir/src/Rules.cpp.o: /Users/strunsa/Desktop/WFC/src/Rules.cpp
+CMakeFiles/WFC.dir/src/Rules.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Rules.cpp
 CMakeFiles/WFC.dir/src/Rules.cpp.o: CMakeFiles/WFC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/WFC.dir/src/Rules.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/Rules.cpp.o -MF CMakeFiles/WFC.dir/src/Rules.cpp.o.d -o CMakeFiles/WFC.dir/src/Rules.cpp.o -c /Users/strunsa/Desktop/WFC/src/Rules.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/WFC.dir/src/Rules.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/Rules.cpp.o -MF CMakeFiles/WFC.dir/src/Rules.cpp.o.d -o CMakeFiles/WFC.dir/src/Rules.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Rules.cpp
 
 CMakeFiles/WFC.dir/src/Rules.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WFC.dir/src/Rules.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/WFC/src/Rules.cpp > CMakeFiles/WFC.dir/src/Rules.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Rules.cpp > CMakeFiles/WFC.dir/src/Rules.cpp.i
 
 CMakeFiles/WFC.dir/src/Rules.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WFC.dir/src/Rules.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/WFC/src/Rules.cpp -o CMakeFiles/WFC.dir/src/Rules.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Rules.cpp -o CMakeFiles/WFC.dir/src/Rules.cpp.s
 
 CMakeFiles/WFC.dir/src/TileMap.cpp.o: CMakeFiles/WFC.dir/flags.make
-CMakeFiles/WFC.dir/src/TileMap.cpp.o: /Users/strunsa/Desktop/WFC/src/TileMap.cpp
+CMakeFiles/WFC.dir/src/TileMap.cpp.o: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/TileMap.cpp
 CMakeFiles/WFC.dir/src/TileMap.cpp.o: CMakeFiles/WFC.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Desktop/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/WFC.dir/src/TileMap.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/TileMap.cpp.o -MF CMakeFiles/WFC.dir/src/TileMap.cpp.o.d -o CMakeFiles/WFC.dir/src/TileMap.cpp.o -c /Users/strunsa/Desktop/WFC/src/TileMap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/WFC.dir/src/TileMap.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WFC.dir/src/TileMap.cpp.o -MF CMakeFiles/WFC.dir/src/TileMap.cpp.o.d -o CMakeFiles/WFC.dir/src/TileMap.cpp.o -c /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/TileMap.cpp
 
 CMakeFiles/WFC.dir/src/TileMap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WFC.dir/src/TileMap.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Desktop/WFC/src/TileMap.cpp > CMakeFiles/WFC.dir/src/TileMap.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/TileMap.cpp > CMakeFiles/WFC.dir/src/TileMap.cpp.i
 
 CMakeFiles/WFC.dir/src/TileMap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WFC.dir/src/TileMap.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Desktop/WFC/src/TileMap.cpp -o CMakeFiles/WFC.dir/src/TileMap.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/TileMap.cpp -o CMakeFiles/WFC.dir/src/TileMap.cpp.s
 
 # Object files for target WFC
 WFC_OBJECTS = \
@@ -176,7 +176,7 @@ bin/WFC: _deps/sfml-build/lib/libsfml-graphics-s-d.a
 bin/WFC: _deps/sfml-build/lib/libsfml-window-s-d.a
 bin/WFC: _deps/sfml-build/lib/libsfml-system-s-d.a
 bin/WFC: CMakeFiles/WFC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/strunsa/Desktop/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable bin/WFC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable bin/WFC"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/WFC.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -188,6 +188,6 @@ CMakeFiles/WFC.dir/clean:
 .PHONY : CMakeFiles/WFC.dir/clean
 
 CMakeFiles/WFC.dir/depend:
-	cd /Users/strunsa/Desktop/WFC/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/strunsa/Desktop/WFC /Users/strunsa/Desktop/WFC /Users/strunsa/Desktop/WFC/build /Users/strunsa/Desktop/WFC/build /Users/strunsa/Desktop/WFC/build/CMakeFiles/WFC.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/CMakeFiles/WFC.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/WFC.dir/depend
 

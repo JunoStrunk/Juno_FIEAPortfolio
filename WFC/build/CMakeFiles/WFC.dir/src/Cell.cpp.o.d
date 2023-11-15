@@ -1,6 +1,6 @@
 CMakeFiles/WFC.dir/src/Cell.cpp.o: \
-  /Users/strunsa/Desktop/WFC/src/Cell.cpp \
-  /Users/strunsa/Desktop/WFC/src/../headers/Cell.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Cell.cpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/../headers/Cell.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \

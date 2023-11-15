@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20231115-0317-Experimental"
+	Name="Junos-MBP"
+	Generator="ctest-3.27.0"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="14.0.0.14000029"
+	OSName="macOS"
+	Hostname="Junos-MBP"
+	OSRelease="12.5.1"
+	OSVersion="21G83"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="3072"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2300"
+	>
+	<Testing>
+		<StartDateTime>Nov 14 22:17 EST</StartDateTime>
+		<StartTestTime>1700018270</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 14 22:17 EST</EndDateTime>
+		<EndTestTime>1700018270</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

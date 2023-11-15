@@ -1,6 +1,6 @@
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/AutoreleasePoolWrapper.mm.o: \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src/SFML/Window/OSX/AutoreleasePoolWrapper.mm \
-  /Users/strunsa/Desktop/WFC/build/_deps/sfml-src/src/SFML/Window/OSX/AutoreleasePoolWrapper.hpp \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src/SFML/Window/OSX/AutoreleasePoolWrapper.mm \
+  /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/build/_deps/sfml-src/src/SFML/Window/OSX/AutoreleasePoolWrapper.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/include/sys/types.h \

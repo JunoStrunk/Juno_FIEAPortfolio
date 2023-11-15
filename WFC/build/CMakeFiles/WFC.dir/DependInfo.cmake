@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/strunsa/Desktop/WFC/main.cpp" "CMakeFiles/WFC.dir/main.cpp.o" "gcc" "CMakeFiles/WFC.dir/main.cpp.o.d"
-  "/Users/strunsa/Desktop/WFC/src/Cell.cpp" "CMakeFiles/WFC.dir/src/Cell.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/Cell.cpp.o.d"
-  "/Users/strunsa/Desktop/WFC/src/Grid.cpp" "CMakeFiles/WFC.dir/src/Grid.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/Grid.cpp.o.d"
-  "/Users/strunsa/Desktop/WFC/src/InputManager.cpp" "CMakeFiles/WFC.dir/src/InputManager.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/InputManager.cpp.o.d"
-  "/Users/strunsa/Desktop/WFC/src/Rules.cpp" "CMakeFiles/WFC.dir/src/Rules.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/Rules.cpp.o.d"
-  "/Users/strunsa/Desktop/WFC/src/TileMap.cpp" "CMakeFiles/WFC.dir/src/TileMap.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/TileMap.cpp.o.d"
+  "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/main.cpp" "CMakeFiles/WFC.dir/main.cpp.o" "gcc" "CMakeFiles/WFC.dir/main.cpp.o.d"
+  "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Cell.cpp" "CMakeFiles/WFC.dir/src/Cell.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/Cell.cpp.o.d"
+  "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Grid.cpp" "CMakeFiles/WFC.dir/src/Grid.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/Grid.cpp.o.d"
+  "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/InputManager.cpp" "CMakeFiles/WFC.dir/src/InputManager.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/InputManager.cpp.o.d"
+  "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/Rules.cpp" "CMakeFiles/WFC.dir/src/Rules.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/Rules.cpp.o.d"
+  "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/WFC/src/TileMap.cpp" "CMakeFiles/WFC.dir/src/TileMap.cpp.o" "gcc" "CMakeFiles/WFC.dir/src/TileMap.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

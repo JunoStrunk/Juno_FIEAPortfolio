@@ -4,9 +4,9 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = -DSFML_STATIC -DSTBI_FAILURE_USERMSG
 
-CXX_INCLUDES = -I/Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/include -I/Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/src -isystem /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/stb_image -isystem /Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/headers/glad/include -isystem /Library/Frameworks/Mono.framework/Headers -isystem /usr/local/include/freetype2
+CXX_INCLUDES = -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/include -I/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/src -isystem /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/stb_image -isystem /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/headers/glad/include -isystem /Library/Frameworks/Mono.framework/Headers -isystem /usr/local/include/freetype2
 
-CXX_FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -F/Users/strunsa/Desktop/Minesweeper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks  -fvisibility=hidden
+CXX_FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -F/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build/_deps/sfml-src/extlibs/libs-osx/Frameworks  -fvisibility=hidden
 
 # Custom flags: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o_FLAGS =  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option
 

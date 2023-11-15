@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /Users/strunsa/Desktop/Minesweeper
-BuildDirectory: /Users/strunsa/Desktop/Minesweeper/build
+SourceDirectory: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper
+BuildDirectory: /Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,8 +27,8 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/local/Cellar/cmake/3.27.0/bin/cmake" "/Users/strunsa/Desktop/Minesweeper"
-MakeCommand: /usr/local/Cellar/cmake/3.27.0/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
+ConfigureCommand: "/usr/local/Cellar/cmake/3.27.0/bin/cmake" "/Users/strunsa/Documents/GitHub/Juno_FIEAPortfolio/Minesweeper"
+MakeCommand: /usr/local/Cellar/cmake/3.27.0/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
 # version control
