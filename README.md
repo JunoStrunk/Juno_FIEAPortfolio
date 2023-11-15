@@ -25,4 +25,5 @@ I made a small image to showcase how this works.
 This project is a Minesweeper clone. I completed it for Programming Fundamentals 2 with Professor Joshua Fox. I learned a lot in this project, like how to put together and organize a larger project.
 
 Here is a demo of the project:
+
 [![Image to a youtube link of my Minesweeper demo](https://img.youtube.com/vi/ryKBlafYiAI/0.jpg)](https://www.youtube.com/watch?v=ryKBlafYiAI)
