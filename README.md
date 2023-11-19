@@ -8,6 +8,8 @@ Both projects are configured with CMake through Visual Studio Code.
 ## Wave Function Collapse (WFC Folder)
 In this project, I explore the wave function collapse algorithm through tile sets. This project is made using **C++** and **SFML**. All scripts were made by me apart from Tilemap.cpp, which is from SFML's documentation. This is a personal project I completed outside of classes.
 
+From my testing, there is one memory leak in this program, but it is not tied to my work. I've tested by commenting out everything but the boilerplate SFML code, and the leak still shows up. I really hope that this won't count against me :')
+
 Here is a demo of the project:
 
 [![Image to a youtube link of my WFC demo](https://img.youtube.com/vi/cnrVNLI1Ivk/0.jpg)](https://www.youtube.com/watch?v=cnrVNLI1Ivk)
